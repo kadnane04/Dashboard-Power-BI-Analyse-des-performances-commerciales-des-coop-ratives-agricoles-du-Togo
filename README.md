@@ -1,4 +1,4 @@
-# Dashboard-Power-BI-Analyse-des-performances-commerciales-des-coop-ratives-agricoles-du-Togo
+# Dashboard-Power-BI-Analyse-des-performances-commerciales-des-coopératives-agricoles-du-Togo
 Dashboard Power BI interactif pour l’Union Nationale des Coopératives Agricoles du Togo (UNCAT), analysant plus de 10 800 transactions entre 2023 et 2025. Il permet de visualiser les performances par région, produit, saison et canal de vente, et fournit des indicateurs clés pour orienter la stratégie commerciale 2025–2027.
 
 # 📌 Contexte
